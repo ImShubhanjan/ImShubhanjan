@@ -28,7 +28,7 @@
   <br>
   
   <div id="badges" align="center">
-  <h4>___________Let's Connect___________</h4>
+  <h2>___________Let's Connect___________</h2>
   <a href="https://www.linkedin.com/in/shubhanjan-barai-7897a1212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
