@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
   <img src="https://tse4.mm.bing.net/th/id/OIP.O6Si7O8zr9F-RMMgIEVKogHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="ejs" **alt="ejs" width="40" height="40"/>
   <img src="https://tse4.mm.bing.net/th/id/OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8?w=208&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="eclipse" **alt="eclipse" width="40" height="40"/>
-  <img src="https://tse4.mm.bing.net/th/id/OIP.ubux1yLT726_fVc3A7WSXgHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="eclipse" **alt="eclipse" width="40" height="40"/>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.ubux1yLT726_fVc3A7WSXgHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="python" **alt="eclipse" width="40" height="40"/>
 </div>
   <br>
   <br>
